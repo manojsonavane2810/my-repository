@@ -6,6 +6,8 @@ public class demo {
 		// TODO Auto-generated method stub
 System.out.println("tharki SALA nikhil");
 	System.out.println("BEHANON KA BHAIYA MOTGARE");	
+	System.out.println("NILU");
+	
 	}
 
 }
